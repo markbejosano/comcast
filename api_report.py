@@ -57,7 +57,7 @@ gen_report.write("</table><table align='center'> <tr><td><h3>Passed: " + totalpe
 
 #api_result------------------------------------------------------------------------------==========================
 api_result = open("api_result.html","a")
-api_result.write("<center><h1>Build Acceptance Test</h1> <h3>API</h3></center>")
+api_result.write("<center><h1>Inbound Build Acceptance Automation</h1> <h3>API</h3></center>")
 api_result.write("<br/> <table border='1' width='70%' align='center' width='35%'> <tr><td align='center' bgcolor='#c2c4c6' width='10%'> <b>Test Case</b> </td> <td align='center' bgcolor='#c2c4c6' width='40%'> <b>API </b></td> <td align='center' bgcolor='#c2c4c6'><b>Response Code</td>  <td align='center' bgcolor='#c2c4c6'><b>Response Message</td> <td align='center' bgcolor='#c2c4c6' width='20%'> <b>Result</b></td></tr>")
 
 
