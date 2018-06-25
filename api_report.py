@@ -66,8 +66,9 @@ if check_file=="True":
 else:	
 	getcontext().prec = 3
 	percentage = 0
+	set_API_NA = "N/A"
 	totalper = str(percentage) + '%'		  
-	gen_report.write("</table><table align='center'> <tr><td><h3>Passed: " + totalper + "</h3></td></tr> </table>")	
+	gen_report.write("</table><table align='center'> <tr><td><h3>Passed: " + set_API_NA + "</h3></td></tr> </table>")	
 		  
 			
 			
