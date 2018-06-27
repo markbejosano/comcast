@@ -21,6 +21,6 @@ ModemReset_2
 ModemReset_3
 ModemReset_6
 ModemResetOtherOptions
-GetSSNTransfer","transferType_subType=WirelessGateway;""
+GetSSNTransfer","transferType_subType=WirelessGateway;"
 transferType_module=Technical;
 transferType_type=HSI;",e4010-20180607221756327-114.txt
